@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Welcome to Jun Rhy Crodua world!</title>
+        <title>Jun Rhy Crodua Official Website</title>
 
         <!-- Boostrap -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -14,6 +14,12 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+
+        <meta property="og:title" content="Jun Rhy Crodua Official Website">
+        <meta property="og:description" content="You wanna know what are the things that I can offer?">
+        <meta property="og:image" content="http://junrhycrodua.com/images/profile.png">
+        <meta property="og:url" content="http://junrhycrodua.com">
+        <meta name="og:card" content="summary_large_image">
 
         <!-- Styles -->
         <style>
@@ -90,9 +96,9 @@
             <div class="p-2 profile-name">Jun Rhy Crodua</div>
         </div>
         <div class="d-flex justify-content-center services">
-            <div class="m-1 align-self-end">Web Developer <span>/</span></div>
-            <div class="m-1 align-self-end">IT Consultant <span>/</span></div>
-            <div class="m-1 align-self-end">Music Producer</div>
+            <div class="m-1">Web Developer.</div>
+            <div class="m-1">IT Consultant.</div>
+            <div class="m-1">Music Producer.</div>
         </div>
         <br>
         <div class="row">
