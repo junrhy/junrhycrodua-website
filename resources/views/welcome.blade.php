@@ -98,7 +98,7 @@
         <div class="d-flex justify-content-center services">
             <div class="m-1">Web Developer.</div>
             <div class="m-1">IT Consultant.</div>
-            <div class="m-1">Music Producer.</div>
+            <div class="m-1">Product Manager.</div>
         </div>
         <br>
         <div class="row">
