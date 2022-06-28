@@ -127,20 +127,20 @@
                 <div class="row gx-0">
                     <div class="col-md-12 projects">
                         <div class="row gx-0 p-img"><img src="/images/banner4.jpeg"></div>
-                        <div class="row gx-0 p-2 p-title">Music Production</div>
+                        <div class="row gx-0 p-2 p-title">Product Management</div>
                     </div>
                 </div>
             </div>
         </div>
         <br>
-        <div class="row gx-0">
+      <!--   <div class="row gx-0">
             <div class="d-flex bg-white">
                 <div class="p-2" style="margin-right: auto;">Web development projects</div>
                 <div class="p-2"><img src="/icons/open-iconic/svg/chevron-left.svg" class="nav-item"></div>
                 <div class="p-2"><img src="/icons/open-iconic/svg/chevron-right.svg" class="nav-item"></div>
             </div>   
         </div>
-        <br>
+        <br> -->
     
     </body>
 </html>
